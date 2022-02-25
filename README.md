@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvarosignorio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvarosignorio/" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.freeiconspng.com/img/38472" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" height="40" width="50" alt="Gmail Icon Svg" /></a>
+<a href="https://www.freeiconspng.com/img/38472" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" height="40" width="40" alt="Gmail Icon Svg" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
