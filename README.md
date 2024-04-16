@@ -3,7 +3,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvarosignorio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvarosignorio/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alvarosignorio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvarosignorio/" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="mailto:signorioalvaro@gmail.com?Subject=Contacto%20por%20perfil%20Front-end%20developer" title="Contact by email"><img src="https://www.freeiconspng.com/uploads/gmail-logo-icon-4.png" height="40" width="40" alt="Gmail Icon Svg" /></a>
